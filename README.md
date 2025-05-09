@@ -10,7 +10,7 @@ Nội dung chính
 Chương 1 – Thu thập dữ liệu
 Sử dụng Selenium và BeautifulSoup để thu thập dữ liệu từ fbref.com, lọc các cầu thủ có tổng thời gian thi đấu trên 90 phút.
 
-Xuất dữ liệu vào file results.csv.
+Lưu dữ liệu vào file results.csv.
 
 Chương 2 – Phân tích và trực quan hóa
 Phân tích thống kê mô tả: tìm top/bottom 3 cầu thủ theo từng chỉ số, tính trung bình, trung vị, độ lệch chuẩn.
