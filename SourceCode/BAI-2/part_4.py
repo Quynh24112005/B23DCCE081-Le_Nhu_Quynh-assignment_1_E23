@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 
-# --- Buoc 1: Dinh nghia duong dan ---
 current_dir = os.path.dirname(os.path.abspath(__file__))
 csv_file = os.path.join(current_dir, 'results2.csv')
 
